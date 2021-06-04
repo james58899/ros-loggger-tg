@@ -1,0 +1,9 @@
+{
+  "name": "syslog-tg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.53.0"
+  }
+}
